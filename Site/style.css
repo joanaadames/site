@@ -49,6 +49,22 @@
     width: 120px;
 }
 
+.membro-imagem2{
+    width: 220px;
+}
+
+.membro-imagem3{
+    width: 210px;
+} 
+
+.membro-imagem4{
+    width: 190px;
+} 
+
+.membro-imagem5{
+    width: 220px;
+} 
+
 .membro-div{
     text-align:center;
 }
@@ -62,4 +78,9 @@
     display:grid;
     grid-template-columns:10% 20% 20% 20% 20%
 
+}
+footer{ 
+    background-color: #000000;
+    padding:15px 0;
+    text-align: center;
 }
